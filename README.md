@@ -22,12 +22,12 @@ Questo progetto è il portfolio personale di Antonio Lo Sapio. Mostra le compete
 ## Come eseguire il progetto
 1. Clona il repository: `git clone https://github.com/ALoSapio93/portfolio.git`
 2. Installa le dipendenze: `npm install`
-3. Avvia il progetto in locale: `npm run buil` - `npm start`
+3. Avvia il progetto in locale: `npm run build` - `npm start`
 4. Apri il browser su [http://localhost:3000](http://localhost:3000)
 
 ## Deployment
-Il progetto è ospitato su [Vercel](https://portfolio-mbou.vercel.app) per il deploy automatico. Ogni push su GitHub aggiorna automaticamente il sito live.
+Il progetto è ospitato su [Vercel](https://portfolio-antoniols.vercel.app) per il deploy automatico. Ogni push su GitHub aggiorna automaticamente il sito live.
 
 ---
 
-© 2025 Antonio Lo Sapio. Tutti i diritti riservati.
+© 2025 Antonio Lo Sapio & GithubProjectsReact. Tutti i diritti riservati.
