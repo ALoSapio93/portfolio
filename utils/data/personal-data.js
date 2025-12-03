@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+393397797989',
   address: 'Naples, Italy ',
   github: 'https://github.com/ALoSapio93',
-  facebook: 'https://www.facebook.com/antonio',
+  facebook: 'https://www.facebook.com/antoniolosapio',
   linkedIn: 'https://www.linkedin.com/in/antonio-lo-sapio-640737141/',
   twitter: 'https://twitter.com/',
   stackOverflow: 'https://stackoverflow.com',
