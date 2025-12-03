@@ -17,7 +17,6 @@ Questo progetto è il portfolio personale di Antonio Lo Sapio. Mostra le compete
 - Next.js
 - TailwindCSS
 - SASS / PostCSS
-- Axios
 - Sharp (ottimizzazione immagini)
 
 ## Come eseguire il progetto
